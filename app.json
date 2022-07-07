@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "qr-scanner",
-    "slug": "qr-scanner",
-    "version": "1.0.0",
+    "name": "QRCode Checker",
+    "slug": "qrcode-checker",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
